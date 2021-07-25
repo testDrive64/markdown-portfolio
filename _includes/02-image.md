@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Megacat v2](https://octodex.github.com/images/megacat-2.png)
+
