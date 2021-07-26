@@ -1,4 +1,4 @@
-*My _Programming_ skills*
+_My *Programming* skills_
 - *C*
 - *C#*
 - *Python*
