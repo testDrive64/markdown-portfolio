@@ -1,5 +1,5 @@
 _My *Programming* skills_
-- *C*
+- *C++*
 - *C#*
 - *Python*
 - *Go*
