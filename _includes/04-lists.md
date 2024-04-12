@@ -1,8 +1,8 @@
 - Hobbys
     - Bicycle
-    - Playing the Bass-Guitar
+    - Playing the Bass-Guitar or the drums
     - Play Videogames 
-    - Writing a little code
+    - Writing a lot of code
 
 * Special Interests
     * IT-Security
