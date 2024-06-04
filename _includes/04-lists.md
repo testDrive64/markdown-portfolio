@@ -1,11 +1,11 @@
-- Hobbys
+- Hobbies
     - Bicycle
-    - Playing the Bass-Guitar or the drums
-    - Play Videogames 
-    - Writing a lot of code
+    - Bass-Guitar or the drums
+    - Videogames 
+    - Writing code
 
 * Special Interests
     * IT-Security
     * Neural Network
-    * Geme Dev
-    * Space things
+    * Game - Dev
+    * Space things (NASA, Space X, etc.)
