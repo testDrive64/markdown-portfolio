@@ -8,7 +8,8 @@
 ## Current Projects
 
 - Gardening Helper
-  - Garden automation
+  - Garden information tracker
+  - Garden action logger
   - Garden API
   - Genetic Documentation
   - Genetic Detail View
